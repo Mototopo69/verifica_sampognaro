@@ -1,0 +1,11 @@
+.colore{
+    color: blue;
+}
+.container1{
+    background-color: orange;
+    height: 250px;
+    width: 225px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: orange;
+}

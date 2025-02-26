@@ -1,0 +1,13 @@
+.colore{
+    color: red;
+}
+.container{
+    padding-left: 150px;
+    padding-top: 30px;
+    background-color: rgb(104, 100, 100);
+    width: 400px;
+    height: 400px;
+}
+.test{
+    padding-left: 10px;
+}
